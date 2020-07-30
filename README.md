@@ -6,6 +6,7 @@
 
 ## Description
 　移動させたい画像と同じフォルダでプログラムを実行する。
+　
 　フォルダ内の画像が5枚ごと結合された状態でウィンドウとして表示される（下図参照）。
 
 ![表示画面](https://github.com/isso5235/imageMover/blob/master/window.jpg)
