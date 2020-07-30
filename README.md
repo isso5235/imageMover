@@ -15,7 +15,7 @@
  
 ![クリック後](https://github.com/isso5235/imageMover/blob/master/updated.jpg)　
 
- 元の画像は神奈川工科大学の標準画像データベースSIDBAからダウンロードしました。
+　元の画像は神奈川工科大学の標準画像データベースSIDBAからダウンロードしました。
 
 # Requirement
 　openCV 
